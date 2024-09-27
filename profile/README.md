@@ -23,3 +23,5 @@ This is a hierarchic list of projects, packages, workflows and code snippets, de
 - Other
   - [compareMS2](https://github.com/524D/compareMS2): calculates the global similarity between tandem mass spectrometry datasets (and more)
   - [GlycoDash](https://github.com/Center-for-Proteomics-and-Metabolomics/GlycoDash): R Shiny dashboard for processing glycomics data
+  - [NGP](https://github.com/magnuspalmblad/NGP): simulation of single-molecule peptide sequencing
+  - [shic](https://github.com/magnuspalmblad/shic): collection of shims for workflow composition
