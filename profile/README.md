@@ -26,4 +26,4 @@ This is a hierarchic list of projects, packages, workflows and code snippets, de
   - [NGP](https://github.com/magnuspalmblad/NGP): simulation of single-molecule peptide sequencing
   - [shic](https://github.com/magnuspalmblad/shic): collection of shims for workflow composition
 
-In addition, the CPM Metabolomics and Lipidomics subgroup maintain a few repositories [here](https://github.com/CPM-Metabolomics-Lipidomics).
+In addition, the CPM Metabolomics and Lipidomics subgroup maintains a few repositories [here](https://github.com/CPM-Metabolomics-Lipidomics).
