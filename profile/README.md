@@ -25,3 +25,5 @@ This is a hierarchic list of projects, packages, workflows and code snippets, de
   - [GlycoDash](https://github.com/Center-for-Proteomics-and-Metabolomics/GlycoDash): R Shiny dashboard for processing glycomics data
   - [NGP](https://github.com/magnuspalmblad/NGP): simulation of single-molecule peptide sequencing
   - [shic](https://github.com/magnuspalmblad/shic): collection of shims for workflow composition
+
+In addition, the CPM Metabolomics and Lipidomics subgroup maintain a few repositories [here](https://github.com/CPM-Metabolomics-Lipidomics).
