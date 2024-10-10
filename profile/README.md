@@ -4,8 +4,9 @@
 
 This is a hierarchic list of projects, packages, workflows and code snippets, developed or frequently used at the CPM, as links to latest or most recent stable releases or repos in the organization:
 
-- Data I/O
+- Data I/O and Format Conversion
   - [shic](https://github.com/magnuspalmblad/shic): collection of shims for workflow composition
+  - [mzXMLrenumber](https://github.com/magnuspalmblad/mzXMLrenumber) renumbers spectra in mzXML files 
 - Calibration and Alignment
   - [mzrecal](https://github.com/524D/mzrecal): calibrates mzML MS1 data using identified peptides
   - [msalign](http://www.ms-utils.org/msalign/index.html): chromatographically aligns LC-MS/MS datasets ("MBR")
