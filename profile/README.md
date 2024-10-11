@@ -6,7 +6,8 @@ This is a hierarchic list of projects, packages, workflows and code snippets, de
 
 - Data I/O and Format Conversion
   - [shic](https://github.com/magnuspalmblad/shic): collection of shims for workflow composition
-  - [mzXMLrenumber](https://github.com/magnuspalmblad/mzXMLrenumber) renumbers spectra in mzXML files 
+  - [mzXMLrenumber](https://github.com/magnuspalmblad/mzXMLrenumber) renumbers spectra in mzXML files
+  - [mzXML2stl](https://github.com/magnuspalmblad/mzXML2stl) coverts mzXML to STL for 3D visualization of LC-MS data
 - Calibration and Alignment
   - [mzrecal](https://github.com/524D/mzrecal): calibrates mzML MS1 data using identified peptides
   - [msalign](http://www.ms-utils.org/msalign/index.html): chromatographically aligns LC-MS/MS datasets ("MBR")
@@ -17,6 +18,7 @@ This is a hierarchic list of projects, packages, workflows and code snippets, de
   - [averageRegions](https://github.com/magnuspalmblad/averageRegions): averages the spectra in defined regions in a SCiLS Lab dataset
 - Quantitation
   - [Xtractor](http://ms-utils.org/Xtractor/): extracts areas under predefined m/z regions
+  - [MassyTools](https://github.com/Tarskin/MassyTools): data processing tool for targeted MALDI-MS analyses
   - [LaCyTools](https://git.lumc.nl/cpm/lacytools): integrates LC-MS peaks (and more)
 - Statistics
   - [MSQC](https://github.com/Center-for-Proteomics-and-Metabolomics/MSQC): R Markdowns for calculating and visualizing QC metrics for mass spectrometry
