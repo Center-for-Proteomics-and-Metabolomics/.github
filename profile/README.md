@@ -7,7 +7,7 @@ This is a hierarchic list of projects, packages, workflows and code snippets, de
 - Data I/O and Format Conversion
   - [shic](https://github.com/magnuspalmblad/shic): collection of shims for workflow composition
   - [mzXMLrenumber](https://github.com/magnuspalmblad/mzXMLrenumber) renumbers spectra in mzXML files
-  - [mzXML2stl](https://github.com/magnuspalmblad/mzXML2stl) coverts mzXML to STL for 3D visualization of LC-MS data
+  - [mzXML2stl](https://github.com/magnuspalmblad/mzXML2stl) converts mzXML to STL for 3D visualization of LC-MS data
 - Calibration and Alignment
   - [mzrecal](https://github.com/524D/mzrecal): calibrates mzML MS1 data using identified peptides
   - [msalign](http://www.ms-utils.org/msalign/index.html): chromatographically aligns LC-MS/MS datasets ("MBR")
@@ -24,7 +24,7 @@ This is a hierarchic list of projects, packages, workflows and code snippets, de
   - [MSQC](https://github.com/Center-for-Proteomics-and-Metabolomics/MSQC): R Markdowns for calculating and visualizing QC metrics for mass spectrometry
 - Visualization
   - [SCOPE](https://github.com/ReinV/SCOPE): combines text mining and machine learning to visualizes properties of molecules in the literature
-  - [mzXML2stl](https://github.com/magnuspalmblad/mzXML2stl) coverts mzXML to STL for 3D visualization of LC-MS data
+  - [mzXML2stl](https://github.com/magnuspalmblad/mzXML2stl) converts mzXML to STL for 3D visualization of LC-MS data
 - Other
   - [compareMS2](https://github.com/524D/compareMS2): calculates the global similarity between tandem mass spectrometry datasets (and more)
   - [GlycoDash](https://github.com/Center-for-Proteomics-and-Metabolomics/GlycoDash): R Shiny dashboard for processing glycomics data
