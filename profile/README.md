@@ -31,4 +31,4 @@ This is a hierarchic list of projects, packages, workflows and code snippets, de
   - [NGP](https://github.com/magnuspalmblad/NGP): simulation of single-molecule peptide sequencing
   - [Workflomics](https://github.com/Workflomics): platform for bioinformaticians to automatically generate and benchmark computational workflows
 
-In addition, the CPM Metabolomics and Lipidomics subgroup maintains a few repositories [here](https://github.com/CPM-Metabolomics-Lipidomics), and several public projects, e.g. from Olink and SomaLogic, are forked here.
+Below are also forks of several public projects, including from Olink and SomaLogic. In addition, the CPM Metabolomics and Lipidomics subgroup maintains a few repositories [here](https://github.com/CPM-Metabolomics-Lipidomics).
